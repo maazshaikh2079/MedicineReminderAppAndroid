@@ -10,7 +10,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:paddingTop="16dp"
-        android:text="Take jnskjfvndkjvnd"
+        android:text="Take <medicine_name>"
         android:textAlignment="viewStart"
         android:textSize="20sp"/>
 
